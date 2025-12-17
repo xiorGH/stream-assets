@@ -1,0 +1,25 @@
+@font-face {
+ font-family: 'label';
+ src: url('/assets/fonts/pokemon-sv/labels.ttf') format('truetype');
+}
+
+#donation-frame {
+ width: 750px;
+ height: 250px;
+ background-image: url('/assets/labels/pokemon-sv/donar.png');
+ background-size: contain;
+ background-repeat: no-repeat;
+ background-position: center;
+ border: 1px solid limegreen;
+}
+
+#content {
+ width: 100%;
+ font-family: 'label', monospace;
+ font-size: 70px;
+ margin-left: 275px;
+ margin-top: 132px
+}
+
+#donor-name{color:white}
+#donation-amount{color:yellow}
