@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'PKMN Mystery Dungeon';
-    src: url('https://github.com/xiorGH/pmd-font/raw/refs/heads/main/PKMN-Mystery-Dungeon.woff2') format('woff2'),
-        url('https://github.com/xiorGH/pmd-font/raw/refs/heads/main/PKMN-Mystery-Dungeon.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
