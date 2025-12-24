@@ -5,7 +5,8 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
 ## Estructura y Créditos
  - /alerts
  - /chat
-   - /pokemon-sv.png (Yo)
+   - /pokemon-sv.png (*Yo*)
+   - /sm64.png (*Yo*)
  - /fonts
    - /pokemon-sv
      - /labels.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
@@ -15,6 +16,9 @@ Estos son assets que estoy usando para el **Canal de Streams de RixoKC**. Esta p
    - /pokemon-sv
      - /donar.png (*Yo, Sprite de Gholdengo - [Emmuffin](https://twitter.com/Ernmuffin)*)
      - /seguir.png (*Yo, Sprite de Tandemaus - [G~](https://bsky.app/profile/justtr4sh.pmd.social)*)
+   - /sm64
+     - /donar.png (*Yo*)
+     - /seguir.png (*Yo*)
  
  Estos recursos fueron hechos con **propósitos personales no-comerciales**, dándole créditos a los autores originales.
  
@@ -25,7 +29,8 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
 ## Structure and Credits
  - /alerts
   - /chat
-    - /pokemon-sv.png (Me)
+    - /pokemon-sv.png (*Me*)
+    - /sm64.png (*Me*)
   - /fonts
     - /pokemon-sv
       - /labels.ttf (*Wondermail - [ShinxHijinx](https://www.reddit.com/user/ShinxHijinx)*)
@@ -35,5 +40,8 @@ These are the assets I'm using for the **RixoKC Streams Channel**. This page is 
     - /pokemon-sv
       - /donar.png (*Me, Gholdengo Sprite - [Emmuffin](https://twitter.com/Ernmuffin)*)
       - /seguir.png (*Me, Tandemaus Sprite - [G~](https://bsky.app/profile/justtr4sh.pmd.social)*)
+    - /sm64
+      - /donar.png (*Me*)
+      - /seguir.png (*Me*)
  
 This resources were made with **non-commercial personal purposes**, giving credits to the original authors.
